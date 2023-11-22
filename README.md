@@ -8,4 +8,5 @@ Links to questions and my answers are below!
 | Difficulty Level                | Question                | Answer                 |
 |---------------------------------|-------------------------|------------------------:|
 |Easy|[Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/ruchi-9/SQL-Practice/blob/main/DataLemur/Data_Science_Skills.sql) |
+|Medium|[User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](https://github.com/ruchi-9/SQL-Practice/blob/main/DataLemur/User's%20_Third_Transaction.sql) |
 
